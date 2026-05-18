@@ -6,3 +6,4 @@ Linguagem Python -  do Básico a Aplicações de IA
 4) Operadores Aritméticos
 5) Operadores de Comparação
 6) Operadores Lógicos
+7) Manipulação de Strings
