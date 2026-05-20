@@ -8,3 +8,4 @@ Linguagem Python -  do Básico a Aplicações de IA
 6) Operadores Lógicos
 7) Manipulação de Strings
 8) Estrutura de Dados - Listas
+9) Estrutura de Dados - Tuplas
