@@ -10,3 +10,4 @@ Linguagem Python -  do Básico a Aplicações de IA
 8)  Estrutura de Dados - Listas
 9)  Estrutura de Dados - Tuplas
 10) Estrutura de Dados - Dicionários
+11) Estrutura de Dados - Conjuntos (Set)
