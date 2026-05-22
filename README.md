@@ -11,3 +11,4 @@ Linguagem Python -  do Básico a Aplicações de IA
 9)  Estrutura de Dados - Tuplas
 10) Estrutura de Dados - Dicionários
 11) Estrutura de Dados - Conjuntos (Set)
+12) Conversão entre tipos - Type Casting
