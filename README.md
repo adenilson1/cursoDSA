@@ -12,4 +12,4 @@ Linguagem Python -  do Básico a Aplicações de IA
 10) Estrutura de Dados - Dicionários
 11) Estrutura de Dados - Conjuntos (Set)
 12) Conversão entre tipos - Type Casting
-13) Entrada e Saída Padrao 
+13) Entrada e Saída Padrão 
