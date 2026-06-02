@@ -14,3 +14,6 @@ Linguagem Python -  do Básico a Aplicações de IA
 12) Conversão entre tipos - Type Casting
 13) Entrada e Saída Padrão
 14) Lista de Exercícios 1
+
+### Intermediário
+01) Tomada de Decisão com Estruturas Condicionais
