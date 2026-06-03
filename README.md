@@ -17,3 +17,4 @@ Linguagem Python -  do Básico a Aplicações de IA
 
 ### Intermediário
 01) Tomada de Decisão com Estruturas Condicionais
+02) Estruturas de Repetição - Loops For - Parte 1
