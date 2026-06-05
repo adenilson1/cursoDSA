@@ -20,3 +20,4 @@ Linguagem Python -  do Básico a Aplicações de IA
 02) Estruturas de Repetição - Loop For - Parte 1
 03) Estruturas de Repetição - Loop While - Parte 2
 04) Iteração Sobre Estruturas de Dados com Loops e Condicionais
+05) Controle de Fluxo em Loops
