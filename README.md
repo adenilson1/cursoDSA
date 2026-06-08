@@ -23,3 +23,4 @@ Linguagem Python -  do Básico a Aplicações de IA
 05) Controle de Fluxo em Loops
 06) Comprehensions (List, Set, Dict e Generator)
 07) Trabalhando com Funções
+08) Parâmetros e Argumentos de Funções
