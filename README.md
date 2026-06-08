@@ -22,3 +22,4 @@ Linguagem Python -  do Básico a Aplicações de IA
 04) Iteração Sobre Estruturas de Dados com Loops e Condicionais
 05) Controle de Fluxo em Loops
 06) Comprehensions (List, Set, Dict e Generator)
+07) Trabalhando com Funções
