@@ -24,3 +24,4 @@ Linguagem Python -  do Básico a Aplicações de IA
 06) Comprehensions (List, Set, Dict e Generator)
 07) Trabalhando com Funções
 08) Parâmetros e Argumentos de Funções
+09) Trabalhando com Números Variado de Argumentos e Funções
