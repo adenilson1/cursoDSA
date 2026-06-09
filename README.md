@@ -25,3 +25,5 @@ Linguagem Python -  do Básico a Aplicações de IA
 07) Trabalhando com Funções
 08) Parâmetros e Argumentos de Funções
 09) Trabalhando com Números Variado de Argumentos e Funções
+10) Funções Anônimas (Expressão Lambda)
+
