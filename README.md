@@ -26,4 +26,5 @@ Linguagem Python -  do Básico a Aplicações de IA
 08) Parâmetros e Argumentos de Funções
 09) Trabalhando com Números Variado de Argumentos e Funções
 10) Funções Anônimas (Expressão Lambda)
+11) Módulos da Biblioteca Padrão
 
