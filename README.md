@@ -29,3 +29,5 @@ Linguagem Python -  do Básico a Aplicações de IA
 11) Módulos da Biblioteca Padrão
 12) Criando e Importando os Próprios Módulos
 
+### Projeto1: Análise de vendas de um E-commerce de uma loja,
+usando Pandas, NumPy e Matplotlib
