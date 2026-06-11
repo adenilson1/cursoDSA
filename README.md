@@ -30,5 +30,5 @@ Linguagem Python -  do Básico a Aplicações de IA
 12) Criando e Importando os Próprios Módulos
 
 ### Projeto1: Análise de vendas de um E-commerce de uma loja,
-usando Pandas, NumPy e Matplotlib.
+### usando Pandas, NumPy e Matplotlib.
 1º) Importação das biblioteca Pandas, Numpy e Matlaplotlib
