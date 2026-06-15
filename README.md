@@ -32,3 +32,5 @@ Linguagem Python -  do Básico a Aplicações de IA
 ### Projeto1: Análise de vendas de um E-commerce de uma loja, usando Pandas, NumPy e Matplotlib.
 1) Importação das biblioteca Pandas, Numpy e Matlaplotlib
 2) Função para a Geração de Dados
+3) Gerar, Carregar e Explorar os Dados
+4) Limpeza, Pré-Processamento e Engenharia de Atributos
