@@ -34,3 +34,4 @@ Linguagem Python -  do Básico a Aplicações de IA
 2) Função para a Geração de Dados
 3) Gerar, Carregar e Explorar os Dados
 4) Limpeza, Pré-Processamento e Engenharia de Atributos
+5) Top 10 Produtos Mais Vendidos com Pandas, NumPy e Matplotlib
