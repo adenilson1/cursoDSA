@@ -36,3 +36,4 @@ Linguagem Python -  do Básico a Aplicações de IA
 4) Limpeza, Pré-Processamento e Engenharia de Atributos
 5) Análise - 1: Top 10 Produtos Mais Vendidos com Pandas, NumPy e Matplotlib
 6) Análise - 2: Faturamento Mensal com Pandas, NumPy e Matplotlib
+7) Análise - 3: Vendas Por Estado com Pandas, NumPy e Matplotlib
