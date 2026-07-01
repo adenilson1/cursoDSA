@@ -38,3 +38,4 @@ Linguagem Python -  do Básico a Aplicações de IA
 6) Análise - 2: Faturamento Mensal com Pandas, NumPy e Matplotlib
 7) Análise - 3: Vendas Por Estado com Pandas, NumPy e Matplotlib
 8) Análise - 4: Faturamento Por Categoria com Pandas, NumPy e Matplotlib
+9) Conclusão do projeto e Entrega do Resultado
