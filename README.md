@@ -43,3 +43,4 @@ Linguagem Python -  do Básico a Aplicações de IA
 ### Programação Orientada a Objetos (POO)
 01) Introdução à programação Orientada a Objetos (POO)
 02) Classes e Objetos - Abstraindo Entidades do Mundo Real
+03) Trabalhando com Instâncias da Classe (Objeto)
