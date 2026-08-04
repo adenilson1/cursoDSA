@@ -45,3 +45,4 @@ Linguagem Python -  do Básico a Aplicações de IA
 02) Classes e Objetos - Abstraindo Entidades do Mundo Real
 03) Trabalhando com Instâncias da Classe (Objeto)
 04) Encapsulamento
+05) Fundamentos de Programação Orientada a Objetos - Herança
