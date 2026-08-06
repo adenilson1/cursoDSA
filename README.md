@@ -46,3 +46,4 @@ Linguagem Python -  do Básico a Aplicações de IA
 03) Trabalhando com Instâncias da Classe (Objeto)
 04) Encapsulamento
 05) Fundamentos de Programação Orientada a Objetos - Herança
+06) Fundamentos de Programação Orientada a Objetos - Polimorfismo
