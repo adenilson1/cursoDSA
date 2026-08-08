@@ -48,3 +48,4 @@ Linguagem Python -  do Básico a Aplicações de IA
 05) Fundamentos de Programação Orientada a Objetos - Herança
 06) Fundamentos de Programação Orientada a Objetos - Polimorfismo
 07) Métodos Especiais (ou Mágicos)
+08) Tratamento de Exceções em Python
