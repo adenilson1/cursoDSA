@@ -1,0 +1,26 @@
+# Projeto2: Aplicação Full-Stack de Sistemas Bancário em Python com POO
+
+# Estrtura do projeto
+
+projeto/
+|__entidades/
+|  |__ __init__.py
+|  |__ clientes.py
+|  |__ contas.py
+|__operacoes/
+|  |__ __init__.py
+|  |__ banco.py
+|__utilitarios/
+|  |__ __init__.py
+|  |__ exceptions.py
+|__projeto.py
+   
+# Descrição
+entidades/: Contém as classes que representam as entidades de dados no sistema (Cliente, Conta).
+
+operacoes/: Contém a lógica de negócio e as operações principais (Classe Bancaria que gerencia tudo).
+
+utilitarios/: Contém utilitários, com execeções customizadas.
+
+projeto.py: É o ponto de entrada da nossa aplicação. responsável pela interface com o usuário
+(CLI - Command Line Interface)
