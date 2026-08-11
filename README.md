@@ -49,3 +49,6 @@ Linguagem Python -  do Básico a Aplicações de IA
 06) Fundamentos de Programação Orientada a Objetos - Polimorfismo
 07) Métodos Especiais (ou Mágicos)
 08) Tratamento de Exceções em Python
+
+### Projeto2: Aplicação Full-Stack de Sistemas Bancário em Python com POO
+01) Estrutura e Organização dos Módulos da Aplicação
