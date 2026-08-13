@@ -52,3 +52,5 @@ Linguagem Python -  do Básico a Aplicações de IA
 
 ### Projeto2: Aplicação Full-Stack de Sistemas Bancário em Python com POO
 01) Estrutura e Organização dos Módulos da Aplicação
+02) Execução da Aplicação Para Compreender o Funcionamento
+03) Construindo o Módulo de Entidades - Classe Cliente
