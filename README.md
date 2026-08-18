@@ -54,3 +54,4 @@ Linguagem Python -  do Básico a Aplicações de IA
 01) Estrutura e Organização dos Módulos da Aplicação
 02) Execução da Aplicação Para Compreender o Funcionamento
 03) Construindo o Módulo de Entidades - Classe Cliente
+03.1) Decoradores
